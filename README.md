@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**RRenann/RRenann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bem vindo ! Eu sou o Renan 👋
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-carlos-51a422280/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renaan7_/)
+
+![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=RRenann&show_icons=true&theme=tokyonight)
+
+
+## Tecnologias 
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html15" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html15" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html15" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+</div>
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html15" src = "    https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
