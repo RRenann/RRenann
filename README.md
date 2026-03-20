@@ -15,7 +15,7 @@
 <br/>
 
 ### You can find me at:
-&nbsp;<a href="https://br.linkedin.com/in/renan-carlos">
+&nbsp;<a href="https://www.linkedin.com/in/renan-carlos-51a422280/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 
