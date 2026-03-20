@@ -1,6 +1,6 @@
 
 ### Welcome, I'm Renan. 👋
-### I am currently finishing my Bachelor's degree in Information Systems.
+### I am currently finishing my Bachelor's degree in Information Systems. 🎓
 
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=RRenann&show_icons=true&theme=radical)
 
