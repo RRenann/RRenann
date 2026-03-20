@@ -2,10 +2,10 @@
 ### Welcome, I'm Renan. 👋
 ### I am currently finishing my Bachelor's degree in Information Systems.
 
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=RRenann&show_icons=true&theme=tokyonight)
+![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=RRenann&show_icons=true&theme=radical)
 
 
-## Tecnologias 
+## Technologies I Use Daily 🛠
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,6 +13,7 @@
   </a>
 </p>
 <br/>
+
 ### Você também me encontra em:
 &nbsp;<a href="https://br.linkedin.com/in/renan-carlos">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
